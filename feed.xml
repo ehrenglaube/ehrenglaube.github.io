@@ -3,8 +3,8 @@
     <channel>
         <title>Update Journal</title>
         <description>An update journal for Jo Dahl&#39;s projects..</description>
-        <link>ehrenglaube.github.io</link>
-        <atom:link href="ehrenglaube.github.io/feed.xml" rel="self" type="application/rss+xml" />
+        <link></link>
+        <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
         
             <item>
                 <title>minimal-block - A minimalistic responsive Jekyll theme</title>
@@ -13,8 +13,8 @@
                     <description>This theme stared out being a fork from the Block-log. It still keeps many similarities. Minimal-block is a minimalistic, responsive and friendly Jekyllrb theme. It has almost no javascript (except for disquss), static social share buttons, rss, p...</description>
                 
                             <pubDate>Fri, 02 Jan 2015 16:00:00 -0800</pubDate>
-                <link>ehrenglaube.github.io/minimal-block-jekyll</link>
-                <guid isPermaLink="true">ehrenglaube.github.io/minimal-block-jekyll</guid>
+                <link>/minimal-block-jekyll</link>
+                <guid isPermaLink="true">/minimal-block-jekyll</guid>
             </item>
         
             <item>
@@ -29,8 +29,8 @@ Heading 1
 Heading...</description>
                 
                             <pubDate>Thu, 01 Jan 2015 05:37:00 -0800</pubDate>
-                <link>ehrenglaube.github.io/elements</link>
-                <guid isPermaLink="true">ehrenglaube.github.io/elements</guid>
+                <link>/elements</link>
+                <guid isPermaLink="true">/elements</guid>
             </item>
         
     </channel>
