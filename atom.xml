@@ -4,7 +4,7 @@
  <title>Projects</title>
  <link href="http://ehrenglaube.github.io//atom.xml" rel="self"/>
  <link href="http://ehrenglaube.github.io//"/>
- <updated>2015-06-12T14:57:44+01:00</updated>
+ <updated>2015-06-12T15:02:56+01:00</updated>
  <id>http://ehrenglaube.github.io/</id>
  <author>
    <name>Jo Dahl</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Category & Tag System</title>
-   <link href="http://ehrenglaube.github.io//intro/2006/11/15/cat-tag-system/"/>
-   <updated>2006-11-15T16:45:35+00:00</updated>
-   <id>http://ehrenglaube.github.io//intro/2006/11/15/cat-tag-system</id>
+   <link href="http://ehrenglaube.github.io//intro/2015/06/11/cat-tag-system/"/>
+   <updated>2015-06-11T17:45:35+01:00</updated>
+   <id>http://ehrenglaube.github.io//intro/2015/06/11/cat-tag-system</id>
    <content type="html">&lt;p&gt;So, this post is here to explain my methodology for the categorizatoin and tagging of posts, namely the main differences between types of post.&lt;/p&gt;
 
 &lt;p&gt;Alright, categories will be in one of several types including intro&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; id=&quot;fnref:1&quot;&gt;[1]&lt;/a&gt;, coding&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; id=&quot;fnref:2&quot;&gt;[2]&lt;/a&gt;, gaming&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; id=&quot;fnref:3&quot;&gt;[3]&lt;/a&gt;, writing&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; id=&quot;fnref:4&quot;&gt;[4]&lt;/a&gt;, and other&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; id=&quot;fnref:5&quot;&gt;[5]&lt;/a&gt;.&lt;/p&gt;
@@ -45,9 +45,9 @@
  
  <entry>
    <title>welcome</title>
-   <link href="http://ehrenglaube.github.io//intro/2006/11/15/welcome/"/>
-   <updated>2006-11-15T15:07:54+00:00</updated>
-   <id>http://ehrenglaube.github.io//intro/2006/11/15/welcome</id>
+   <link href="http://ehrenglaube.github.io//intro/2015/06/11/welcome/"/>
+   <updated>2015-06-11T16:07:54+01:00</updated>
+   <id>http://ehrenglaube.github.io//intro/2015/06/11/welcome</id>
    <content type="html">&lt;p&gt;Hello, this is my update journal, just a little jekyll blog where I can post updates on the various projects I enjoy participating in, not all of which are code related. I will categorize and tag all posts properly, whether they deal with code, writing, or whatever else.&lt;/p&gt;
 
 &lt;p&gt;Now I’m not the worlds best blogger, in fact, I forget I even had a blog more often than not! I suppose I’ll try with this one, however, it shouldn’t be so hard, since all the files for this blog are right here on my hard drive.&lt;/p&gt;
