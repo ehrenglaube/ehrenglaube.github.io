@@ -4,7 +4,7 @@
  <title>Update Journal</title>
  <link href="http://ehrenglaube.github.io//atom.xml" rel="self"/>
  <link href="http://ehrenglaube.github.io//"/>
- <updated>2015-06-12T02:25:01+01:00</updated>
+ <updated>2015-06-12T04:54:14+01:00</updated>
  <id>http://ehrenglaube.github.io/</id>
  <author>
    <name>Jo Dahl</name>
@@ -24,19 +24,19 @@
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;An introductory post allowing me to add information about a variety of subjects, tags will vary. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;An introductory post allowing me to add information about a variety of subjects. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;A post about one of my code projects, tags will vary. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;A post about one of my code projects. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;A post about tabletop games, tags will typically be dnd4, dnd5, or pf. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;A post about games I play, especially tabletop games or Second Life. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;A post about creative writing projects, tags will vary. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;A post about creative writing projects. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;A post that does not fit into any other category, tags will vary. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;A post that does not fit into any other category. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -53,6 +53,15 @@
 &lt;p&gt;Now I’m not the worlds best blogger, in fact, I forget I even had a blog more often than not! I suppose I’ll try with this one, however, it shouldn’t be so hard, since all the files for this blog are right here on my hard drive.&lt;/p&gt;
 
 &lt;p&gt;Anyways, I suppose I should leave off for now, the dog needs to go out, so I’ll post again later… maybe….&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Eriond</title>
+   <link href="http://ehrenglaube.github.io//2006/11/15/eriond/"/>
+   <updated>2006-11-15T00:00:00+00:00</updated>
+   <id>http://ehrenglaube.github.io//2006/11/15/eriond</id>
+   <content type="html">&lt;p&gt;content of post here.&lt;/p&gt;
 </content>
  </entry>
  
