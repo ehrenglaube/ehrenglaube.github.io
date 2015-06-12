@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Update Journal</title>
+ <title>Projects</title>
  <link href="http://ehrenglaube.github.io//atom.xml" rel="self"/>
  <link href="http://ehrenglaube.github.io//"/>
- <updated>2015-06-12T05:02:02+01:00</updated>
+ <updated>2015-06-12T14:57:44+01:00</updated>
  <id>http://ehrenglaube.github.io/</id>
  <author>
    <name>Jo Dahl</name>
    <email></email>
  </author>
 
- 
- <entry>
-   <title>Eriond</title>
-   <link href="http://ehrenglaube.github.io//gaming/2006/11/15/eriond/"/>
-   <updated>2006-11-15T20:53:21+00:00</updated>
-   <id>http://ehrenglaube.github.io//gaming/2006/11/15/eriond</id>
-   <content type="html">&lt;p&gt;content of post here.&lt;/p&gt;
-</content>
- </entry>
  
  <entry>
    <title>Category & Tag System</title>
